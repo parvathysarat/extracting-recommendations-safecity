@@ -4,4 +4,4 @@ Safecity is a non-profit organization that uses crowdsourced data about sexual h
 
 <b> It was found that some of these reports contained in them certain recommendations or warnings regarding safety of locations - these could be potential pointers for commuters and pedestrians taking those routes, letting them make informed decisions. This repository deals with the extraction of these recommendations</b>.
 
-The recommendations along with other details were extracted and submitted to Safecity.
+As a member of the Safecity Data team, the recommendations along with other details were extracted and submitted to Safecity.
